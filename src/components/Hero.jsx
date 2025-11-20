@@ -13,10 +13,10 @@ export default function Hero() {
         <div className="text-left max-w-3xl">
           <span className="inline-flex items-center gap-2 text-cyan-300/90 text-sm tracking-widest uppercase">
             <span className="h-1 w-1 rounded-full bg-cyan-400 animate-pulse" />
-            Future-focused Technologist
+            Future-focused Learner
           </span>
           <h1 className="mt-4 text-3xl sm:text-5xl font-semibold leading-tight text-white">
-            Aashik Khatri — Aspiring Computer Scientist | Developer | Creative Technologist.
+            Aashik Khatri — Aspiring Computer Student | Creative Developer |  Aspiring Cybersecurity Student.
           </h1>
           <p className="mt-4 text-cyan-100/90 text-lg">
             Turning ideas into digital impact through innovation and intelligence.
