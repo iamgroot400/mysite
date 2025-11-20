@@ -22,7 +22,7 @@ export default function Hero() {
             Turning ideas into digital impact through innovation and intelligence.
           </p>
           <p className="mt-6 text-gray-300 max-w-2xl">
-            I’m Aashik Khatri — a young technologist from Nepal who discovered his love for computers in class 5. What started as curiosity became a purpose: to build intelligent, creative, and data-driven solutions that make life smarter. I’m focused on using technology not just as a tool, but as a way to connect people, solve problems, and inspire progress.
+            I’m Aashik Khatri — a young student from Nepal who discovered his love for computers. What started as curiosity became a purpose: to build intelligent, creative, and data-driven solutions that make life smarter. I’m focused on using technology not just as a tool, but as a way to connect people, solve problems, and inspire progress.
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-3">
