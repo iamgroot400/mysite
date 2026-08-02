@@ -5,11 +5,10 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="min-h-screen bg-black text-gray-200 scroll-smooth">
-      {/* Global background accents */}
+    <div className="min-h-screen bg-white text-gray-900 scroll-smooth">
+      {/* Global background accent — kept faint and neutral for a minimal feel */}
       <div className="fixed inset-0 -z-0 pointer-events-none">
-        <div className="absolute -top-40 left-1/2 -translate-x-1/2 h-[500px] w-[800px] rounded-full bg-cyan-500/10 blur-3xl" />
-        <div className="absolute bottom-0 right-0 h-[300px] w-[400px] rounded-full bg-blue-500/10 blur-3xl" />
+        <div className="absolute -top-40 left-1/2 -translate-x-1/2 h-[500px] w-[800px] rounded-full bg-gray-100/60 blur-3xl" />
       </div>
 
       <Navbar />
